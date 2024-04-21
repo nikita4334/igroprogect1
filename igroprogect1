@@ -1,0 +1,7 @@
+echo "# igroprogect1" >> README.md 
+git init 
+git add README.md 
+git commit -m "первая фиксация" 
+git ветка -M main 
+git удаленное добавление источника https://github.com/nikita4334/igroprogect1.git
+ git push - ты родной, главный
